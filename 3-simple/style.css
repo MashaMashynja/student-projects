@@ -1,0 +1,42 @@
+.menu a {
+   color: #FF0000;
+   text-decoration: none;
+   text-transform: uppercase;
+   padding: 25.5px 72px;
+   display: inline-block;
+}
+
+.menu {
+    text-align: center;
+}
+
+.text {
+ text-align: center;
+
+}
+
+.text h1 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 22px;
+    margin: 22px 0px;
+}
+
+.text p {
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 2.4px;
+    margin: 28px 0px;
+}
+
+.menu1 a {
+    background-color: #FF0000;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+    padding: 42.5px 18px;
+    letter-spacing: 2.4px;
+    text-align: center;
+}
+

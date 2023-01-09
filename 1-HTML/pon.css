@@ -1,0 +1,20 @@
+.title {
+    color: rgb(173, 70, 201);
+}
+
+P {
+    color:rgb(169, 105, 181);
+    border: 5px solid rgb(0, 0, 0);
+}
+img {
+    max-width: 250px;
+}
+
+.Hello {
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+    border: 5px solid;
+    padding: 10px;
+    margin: 3px;
+}
